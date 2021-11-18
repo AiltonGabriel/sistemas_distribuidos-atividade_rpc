@@ -22,6 +22,6 @@ print(soma) # Exibe 5
 ## Como usar
 
 1. Instale o Pyhton 3 caso não tenha.
-2. Altere o _SERVER_NAME_ no arquivo *teste_rpc.py* caso seja necessário.
+2. Altere o _RPC_SERVER_ no arquivo *teste_rpc.py* caso seja necessário.
 3. Execute o *rpc_server.py*: ```python rpc_server.py```
 4. Execute o *teste_rpc.py*: ```python teste_rpc.py```
